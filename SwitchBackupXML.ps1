@@ -1,4 +1,4 @@
-# Title: Credentials Encryption  #
+#    Title: PRTG Custom Script   #
 #                                #
 #     Author: Tencharmin         # 
 #                                #   
