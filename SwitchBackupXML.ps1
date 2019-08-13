@@ -1,4 +1,4 @@
-﻿# Title: Credentials Encryption  #
+# Title: Credentials Encryption  #
 #                                #
 #     Author: Tencharmin         # 
 #                                #   
