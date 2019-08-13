@@ -1,7 +1,7 @@
 # PowerShell utility scripts
 
 
-Hello, I'm kinda fresh to PowerShell but you need to start somewhere so I made few usefull scripts which help us at work for doing (variety) of stuff
+Hello, I'm kind of fresh to PowerShell but you need to start somewhere so I made few usefull scripts which help us at work for doing (variety) of stuff
 
 So here is a little readme for each script:
 
